@@ -17,10 +17,6 @@ import com.music.player.musicUtils.MusicUtils;
 import java.io.IOException;
 import java.util.List;
 
-/**
- * Created by user on 2017/5/1.
- */
-
 public class MusicServer extends Service implements MediaPlayer.OnCompletionListener {
     private MediaPlayer mPlayer;
     private PlayerReceiver mReceiver;

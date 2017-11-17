@@ -2,9 +2,6 @@ package com.music.player.bean;
 
 import java.io.Serializable;
 
-/**
- * Created by user on 2016/6/24. * 放置音乐
- */
 public class Song implements Serializable {
     /**
      * 歌手

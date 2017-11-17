@@ -10,10 +10,6 @@ import com.music.player.server.MusicServer;
 
 import java.util.List;
 
-/**
- * Created by user on 2017/5/1.
- */
-
 public class APPContext extends Application {
     public static APPContext instance;
     public static MediaPlayer mPlayer;

@@ -39,6 +39,7 @@ import static com.music.player.R.id.activity_main_model_ll;
 public class MainActivity extends BaseActivity implements View.OnClickListener,
         CompoundButton.OnCheckedChangeListener, SeekBar.OnSeekBarChangeListener,
         MainMusicAdapter.OnMusicItemListener {
+
     private ImageView mMainIconIv;
     private ImageView mExitIv;
     private TextView mMusicName;

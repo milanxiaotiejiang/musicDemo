@@ -23,11 +23,8 @@ import com.music.player.db.CollectDBHelper;
 
 import java.util.List;
 
-/**
- * Created by user on 2017/5/1.
- */
-
 public class CollectActivity extends BaseActivity implements MainMusicAdapter.OnMusicItemListener {
+
     private ImageView mBackIv;
     private CheckBox mStateCb;
     private RecyclerView mRecycler;

@@ -4,10 +4,6 @@ import android.app.Activity;
 import android.content.Context;
 import android.os.Bundle;
 
-/**
- * activity基类
- *
- */
 public abstract class BaseActivity extends Activity {
 
 	protected Context mContext;

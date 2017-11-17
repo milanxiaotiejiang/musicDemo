@@ -1,9 +1,5 @@
 package com.music.player.Config;
 
-/**
- * Created by user on 2017/5/1.
- */
-
 public class Constants {
     public final static String CHANGE_MUSIC_START_PAUSE = "change.music.start.pause";
 

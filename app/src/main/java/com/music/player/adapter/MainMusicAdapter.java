@@ -17,11 +17,8 @@ import com.music.player.musicUtils.MusicUtils;
 
 import java.util.List;
 
-/**
- * Created by user on 2017/5/1.
- */
-
 public class MainMusicAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
+
     private Context mContext;
     private OnMusicItemListener mListener;
     private List<Song> mSongs;
